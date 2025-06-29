@@ -10,15 +10,6 @@
 🔗 [Upwork Profile](https://www.upwork.com/services/product/development-it-data-scientist-machine-learning-deep-learning-nlp-python-expert-1925756088873478511?ref=fl_profile)
 
 ---
-
-<!-- Snake Game Animation -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ## 👩‍💻 About Me
 
 As a professional Data Scientist, I specialize in extracting meaningful insights from data to solve real-world problems. My work bridges the gap between data and decision-making by building and deploying intelligent models that power real-time applications.
@@ -30,6 +21,13 @@ My expertise spans across the full data science lifecycle:
 * To advanced Machine Learning, Deep Learning, and Natural Language Processing.
 
 I bring business value by developing end-to-end AI solutions—from model training to deployment—using tools such as **Streamlit**, **Flask**, and **FastAPI**.
+
+---
+<!-- Snake Game Animation -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
